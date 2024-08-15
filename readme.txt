@@ -1,0 +1,4 @@
+该项目为塔防游戏
+该压缩包包含两个文件：game_exe_file、game_code_file
+game_exe_file为打包过后的执行文件，其目录下的game.exe可以直接打开运行项目游戏
+game_code_file为源代码文件，其中包含所有源代码
